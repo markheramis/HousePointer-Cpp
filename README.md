@@ -24,7 +24,7 @@ This project revolves around a basic C++ program that models a house and calcula
 - **Compile and Run**: Use a C++ compiler to build the program and run the executable. For example:
 
     ```
-    g++ main.cpp -o HousePointer
+    g++ HousePointer/HousePointer.cpp -o HousePointer
     ./HousePointer
     ```
 
